@@ -7,8 +7,9 @@ It also has accompanying [slides](https://docs.google.com/presentation/d/1LouUtv
 ## Set up instructions
  
  - Ensure you have a bash terminal installed (e.g. could be [Gitbash](https://gitforwindows.org/) if using a Windows machine - if using a Mac OS or a machine running Linux, you should have a bash terminal by default)
- - Download the Pokemon.csv and pokemon_two.csv files
+ - Download the Pokemon.csv, pokemon_two.csv & my_bash_script.sh files
  - Extract it into a folder location on your local filesystem that is easy for you to find
+ - Follow along using the slides
 
 
 --------------------
