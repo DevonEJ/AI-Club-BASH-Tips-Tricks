@@ -16,3 +16,4 @@ It also has accompanying [slides](https://docs.google.com/presentation/d/1LouUtv
 ### Sources
 
 Pokemon datasets originally taken from [Kaggle](https://www.kaggle.com/abcsds/pokemon/)
+Event pizza sponsor slides [here](https://docs.google.com/presentation/d/1oDBcP__ooS7jQWLH7V8QXq8JmCDYJpDOKLgAKXtT5k0/edit?usp=sharing)
