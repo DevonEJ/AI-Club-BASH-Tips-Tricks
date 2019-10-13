@@ -12,4 +12,6 @@ It also has accompanying [slides](https://docs.google.com/presentation/d/1LouUtv
 
 
 --------------------
-- Pokemon dataset originally taken from [Kaggle](https://www.kaggle.com/rounakbanik/pokemon)
+### Sources
+
+Pokemon dataset originally taken from [Kaggle](https://www.kaggle.com/rounakbanik/pokemon)
