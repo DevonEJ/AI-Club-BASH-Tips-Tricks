@@ -1,6 +1,6 @@
 # AI-Club-BASH-Tips-Tricks
 
-This is a command line tutorial produced for the Meet Up group, the [AI Club for Gender Minorities](https://www.meetup.com/ai-club/events/262441143/).
+This is a 30-minute command line tutorial produced for the Meet Up group, the [AI Club for Gender Minorities](https://www.meetup.com/ai-club/events/262441143/).
 
 It also has accompanying [slides](https://docs.google.com/presentation/d/1LouUtvsGt6gTE8GnSLFyFCXImih5Dj4Y739G-KTRO3A/edit?usp=sharing).
 
