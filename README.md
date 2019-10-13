@@ -15,4 +15,4 @@ It also has accompanying [slides](https://docs.google.com/presentation/d/1LouUtv
 --------------------
 ### Sources
 
-Pokemon dataset originally taken from [Kaggle](https://www.kaggle.com/abcsds/pokemon/)
+Pokemon datasets originally taken from [Kaggle](https://www.kaggle.com/abcsds/pokemon/)
