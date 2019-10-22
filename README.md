@@ -1,5 +1,6 @@
 # AI-Club-BASH-Tips-Tricks
-
+<p align="center">
+ 
 This is a 60-minute command line tutorial for beginners, produced for the Meet Up group, the [AI Club for Gender Minorities](https://www.meetup.com/ai-club/events/262441143/).
 
 It also has accompanying [slides](https://docs.google.com/presentation/d/1LouUtvsGt6gTE8GnSLFyFCXImih5Dj4Y739G-KTRO3A/edit?usp=sharing).
@@ -20,4 +21,4 @@ It also has accompanying [slides](https://docs.google.com/presentation/d/1LouUtv
 Pokemon datasets originally taken from [Kaggle](https://www.kaggle.com/abcsds/pokemon/)
 Event pizza sponsor slides [here](https://docs.google.com/presentation/d/1oDBcP__ooS7jQWLH7V8QXq8JmCDYJpDOKLgAKXtT5k0/edit?usp=sharing)
 
-
+</p>
