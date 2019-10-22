@@ -12,8 +12,7 @@ This is a 60-minute command line tutorial for beginners, produced for the Meet U
  - Ensure you have a bash terminal installed (e.g. could be [Gitbash](https://gitforwindows.org/) if using a Windows machine - if using a Mac OS or a machine running Linux, you should have a bash terminal by default)
  - Download the Pokemon.csv, pokemon_two.csv, my_bash_script.sh & my_bash_script_2.sh files
  - Extract it into a folder location on your local filesystem that is easy for you to find
- - Follow along using the slides!
-
+ - Follow along using the [slides!](https://docs.google.com/presentation/d/1LouUtvsGt6gTE8GnSLFyFCXImih5Dj4Y739G-KTRO3A/edit?usp=sharing)
 
 --------------------
 ### Sources
