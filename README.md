@@ -17,3 +17,5 @@ It also has accompanying [slides](https://docs.google.com/presentation/d/1LouUtv
 
 Pokemon datasets originally taken from [Kaggle](https://www.kaggle.com/abcsds/pokemon/)
 Event pizza sponsor slides [here](https://docs.google.com/presentation/d/1oDBcP__ooS7jQWLH7V8QXq8JmCDYJpDOKLgAKXtT5k0/edit?usp=sharing)
+
+[Pokemon](https://s3-ap-southeast-1.amazonaws.com/images.marketing-interactive.com/wp-content/uploads/2018/11/14230247/Pokemon_McDonalds-Malaysia_1.jpeg)
